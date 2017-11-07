@@ -2937,6 +2937,10 @@
 
 /* Contact Method */
 
+.info-wrapper{
+	 display:inline-block;
+
+}
 	.contact-method {
 		margin: 0 0 2em 0;
 		padding-left: 3.25em;
@@ -2945,8 +2949,8 @@
 
 		.contact-method .icon {
 			left: 0;
-			position: absolute;
-			top: 0;
+			position: relative;
+			top: 75px;
 			/*xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*/
 		}
 
