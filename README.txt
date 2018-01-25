@@ -1,35 +1,22 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfolio
+# C# version 1.0
 
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+## Description
+This program was a project for Eleven Fifty. It pulls together all of my work thourghout the program
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+## System Requirements
+Any computer or laptop with windows 8 or higher.
 
 
-Credits:
+## Credits
+* Jeff Beeson - jbeeson.net@gmail.com
 
-	Demo Images:
-		Unsplash (unsplash.com)
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+Additional credit goes to Eleven Fifty Academy staff who have helped me in a multitude of ways in creation of this project. 
 
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		background-size polyfill (github.com/louisremi)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+Copyright
+© 2018  JEFF BEESON ALL RIGHTS RESERVED 
+
+Known bugs, defects
+No
